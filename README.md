@@ -3,7 +3,10 @@
 <img src="data/traffic_simulation.gif"/>
 
 
-This is a  Concurrency Problem Solving , which is a Traffic simulation in which vehicles are moving along streets and are crossing intersections. However, with increasing traffic in the city, traffic lights are needed for road safety. Each intersection will therefore be equipped with a traffic light. This project emphasises a suitable and thread-safe communication protocol between vehicles and intersections to complete the simulation. This problem builds a concurrent programming approach (such as mutexes, locks and message queues) to implement the traffic lights and integrate them properly in the code base.
+This is a Concurrency Problem Solving , which tries Traffic Light simulation.
+## The Problem:
+
+The Vehicles are moving along streets and are crossing intersections. However, with increasing traffic in the city, traffic lights are needed for road safety. Each intersection will therefore be equipped with a traffic light. This project emphasises a suitable and thread-safe communication protocol between vehicles and intersections to complete the simulation. This problem builds a concurrent programming approach (such as mutexes, locks and message queues) to implement the traffic lights and integrate them properly in the code base.
 
 ## Dependencies for Running Locally
 * cmake >= 2.8
